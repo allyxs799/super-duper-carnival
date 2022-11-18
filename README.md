@@ -18,13 +18,6 @@ Like other anime-style Stable Diffusion models, it also supports danbooru tags t
 
 e.g. **_1girl, white hair, golden eyes, beautiful eyes, detail, flower meadow, cumulonimbus clouds, lighting, detailed sky, garden_** 
 
-# Examples
-
-**Anime Girl:**
-![Anime Girl](https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1girl.png)
-_1girl, brown hair, green eyes, colorful, autumn, cumulonimbus clouds, lighting, blue sky, falling leaves, garden_
-_Steps: 50, Sampler: DDIM, CFG scale: 12, Seed: 2297466124, Size: 512x640, Model hash: 2700c435_
-
 # Gradio
 
 We support a [Gradio](https://github.com/gradio-app/gradio) Web UI run anything-v3.0:
@@ -50,6 +43,37 @@ prompt = "pikachu"
 image = pipe(prompt).images[0]
 
 image.save("./pikachu.png")
+```
+
+# Examples
+
+Below are some examples of images generated using this model:
+
+**Anime Girl:**
+![Anime Girl](https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1girl.png)
+**Anime Boy:**
+![Anime Boy](https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1boy.png)
+**Scenery:**
+![Scenery](https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/scenery.png)
+**1girl, brown hair, green eyes, colorful, autumn, cumulonimbus clouds, lighting, blue sky, falling leaves, garden**_Steps: 50, Sampler: DDIM, CFG scale: 12, Seed: 2297466124_ 
+
+#### Prompt and settings for Examples:
+
+**Anime Girl:**
+```
+1girl, brown hair, green eyes, colorful, autumn, cumulonimbus clouds, lighting, blue sky, falling leaves, garden
+Steps: 50, Sampler: DDIM, CFG scale: 12
+```
+**Anime Boy:**
+```
+1boy, medium hair, blonde hair, blue eyes, bishounen, colorful, autumn, cumulonimbus clouds, lighting, blue sky, falling leaves, garden
+Steps: 50, Sampler: DDIM, CFG scale: 12
+```
+**Scenery:**
+```
+scenery, shibuya tokyo, post-apocalypse, ruins, rust, sky, skyscraper, abandoned, blue sky, broken window, building, cloud, crane machine, outdoors, overgrown, pillar, sunset
+
+Steps: 50, Sampler: DDIM, CFG scale: 12, Seed: 4090918024, Size: 1024x768, Model hash: 2700c435
 ```
 
 ## License
