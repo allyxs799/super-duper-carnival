@@ -65,7 +65,7 @@ Steps: 50, Sampler: DDIM, CFG scale: 12
 ![Scenery](https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/scenery.png)
 ```
 scenery, shibuya tokyo, post-apocalypse, ruins, rust, sky, skyscraper, abandoned, blue sky, broken window, building, cloud, crane machine, outdoors, overgrown, pillar, sunset
-Steps: 50, Sampler: DDIM, CFG scale: 12, Seed: 4090918024, Size: 1024x768, Model hash: 2700c435
+Steps: 50, Sampler: DDIM, CFG scale: 12
 ```
 
 ## License
