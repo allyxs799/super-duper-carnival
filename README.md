@@ -10,7 +10,7 @@ tags:
 inference: true
 ---
 
-### Anything V3
+# Anything V3
 
 Welcome to Anything V3 - a latent diffusion model for weebs. This is a fine-tuned Stable Diffusion model trained on Danbooru. This model is intended to produce high-quality, highly detailed anime style with just a few prompts.
 
@@ -18,13 +18,13 @@ Like other anime-style Stable Diffusion models, it also supports danbooru tags t
 
 e.g. **_1girl, white hair, golden eyes, beautiful eyes, detail, flower meadow, cumulonimbus clouds, lighting, detailed sky, garden_** 
 
-# Gradio
+## Gradio
 
 We support a [Gradio](https://github.com/gradio-app/gradio) Web UI run anything-v3.0:
 [![Open In Spaces](https://camo.githubusercontent.com/00380c35e60d6b04be65d3d94a58332be5cc93779f630bcdfc18ab9a3a7d3388/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67253230466163652d5370616365732d626c7565)](https://huggingface.co/spaces/akhaliq/anything-v3.0)
 
 
-### 🧨 Diffusers
+## 🧨 Diffusers
 
 This model can be used just like any other Stable Diffusion model. For more information,
 please have a look at the [Stable Diffusion](https://huggingface.co/docs/diffusers/api/pipelines/stable_diffusion).
@@ -45,7 +45,7 @@ image = pipe(prompt).images[0]
 image.save("./pikachu.png")
 ```
 
-# Examples
+## Examples
 
 Below are some examples of images generated using this model:
 
