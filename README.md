@@ -22,6 +22,8 @@ e.g. **_1girl, white hair, golden eyes, beautiful eyes, detail, flower meadow, c
 
 **Anime Girl:**
 ![Anime Girl](https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1girl.png)
+_1girl, brown hair, green eyes, colorful, autumn, cumulonimbus clouds, lighting, blue sky, falling leaves, garden_
+_Steps: 50, Sampler: DDIM, CFG scale: 12, Seed: 2297466124, Size: 512x640, Model hash: 2700c435_
 
 # Gradio
 
