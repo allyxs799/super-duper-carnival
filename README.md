@@ -51,28 +51,20 @@ Below are some examples of images generated using this model:
 
 **Anime Girl:**
 ![Anime Girl](https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1girl.png)
-**Anime Boy:**
-![Anime Boy](https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1boy.png)
-**Scenery:**
-![Scenery](https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/scenery.png)
-**1girl, brown hair, green eyes, colorful, autumn, cumulonimbus clouds, lighting, blue sky, falling leaves, garden**_Steps: 50, Sampler: DDIM, CFG scale: 12, Seed: 2297466124_ 
-
-#### Prompt and settings for Examples:
-
-**Anime Girl:**
 ```
 1girl, brown hair, green eyes, colorful, autumn, cumulonimbus clouds, lighting, blue sky, falling leaves, garden
 Steps: 50, Sampler: DDIM, CFG scale: 12
 ```
 **Anime Boy:**
+![Anime Boy](https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1boy.png)
 ```
 1boy, medium hair, blonde hair, blue eyes, bishounen, colorful, autumn, cumulonimbus clouds, lighting, blue sky, falling leaves, garden
 Steps: 50, Sampler: DDIM, CFG scale: 12
 ```
 **Scenery:**
+![Scenery](https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/scenery.png)
 ```
 scenery, shibuya tokyo, post-apocalypse, ruins, rust, sky, skyscraper, abandoned, blue sky, broken window, building, cloud, crane machine, outdoors, overgrown, pillar, sunset
-
 Steps: 50, Sampler: DDIM, CFG scale: 12, Seed: 4090918024, Size: 1024x768, Model hash: 2700c435
 ```
 
