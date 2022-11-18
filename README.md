@@ -18,6 +18,11 @@ Like other anime-style Stable Diffusion models, it also supports danbooru tags t
 
 e.g. **_1girl, white hair, golden eyes, beautiful eyes, detail, flower meadow, cumulonimbus clouds, lighting, detailed sky, garden_** 
 
+# Examples
+
+**Anime Girl:**
+![Anime Girl](https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1girl.png)
+
 # Gradio
 
 We support a [Gradio](https://github.com/gradio-app/gradio) Web UI run anything-v3.0:
