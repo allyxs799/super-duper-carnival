@@ -22,7 +22,6 @@ We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Anythi
 
 [Open in Spaces](https://huggingface.co/spaces/akhaliq/anything-v3.0)
 
-[Open in Google Colab](https://colab.research.google.com/drive/1GbGcg73w1tWOb9LfJSOsRa_5Xq6KZpkY?usp=sharing)
 
 
 ## 🧨 Diffusers
