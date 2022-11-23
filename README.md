@@ -19,8 +19,10 @@ e.g. **_1girl, white hair, golden eyes, beautiful eyes, detail, flower meadow, c
 ## Gradio
 
 We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Anything-V3.0:
-###[Open in Spaces](https://huggingface.co/spaces/akhaliq/anything-v3.0)
-###[Open in Colab](https://colab.research.google.com/drive/1GbGcg73w1tWOb9LfJSOsRa_5Xq6KZpkY?usp=sharing)
+
+### [Open in Spaces](https://huggingface.co/spaces/akhaliq/anything-v3.0)
+
+### [Open in Google Colab](https://colab.research.google.com/drive/1GbGcg73w1tWOb9LfJSOsRa_5Xq6KZpkY?usp=sharing)
 
 
 ## 🧨 Diffusers
