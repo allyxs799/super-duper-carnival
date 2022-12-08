@@ -36,7 +36,9 @@ from diffusers import StableDiffusionPipeline
 import torch
 
 model_id = "Linaqruf/anything-v3.0"
-pipe = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float16)
+branch_name= "diffusers"
+
+pipe = StableDiffusionPipeline.from_pretrained(model_id, revision=branch_name, torch_dtype=torch.float16)
 pipe = pipe.to("cuda")
 
 prompt = "pikachu"
